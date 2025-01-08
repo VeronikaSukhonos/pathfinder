@@ -1,0 +1,3 @@
+[submodule "libmx"]
+	path = libmx
+	url = git@github.com:VeronikaSukhonos/libmx.git
