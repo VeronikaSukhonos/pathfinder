@@ -1,3 +1,4 @@
 [submodule "libmx"]
 	path = libmx
-	url = git@github.com:VeronikaSukhonos/libmx.git
+	url = https://github.com/VeronikaSukhonos/libmx.git
+	branch = main
