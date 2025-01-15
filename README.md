@@ -16,11 +16,12 @@
 
 <h2 align="center">Installation</h2>
 
-To compile the program, clone the repository, navigate to the project directory and build the project using `make` command.
+To compile the program, clone the repository, navigate to the project directory, initialize and update `libmx` submodule and build the project using `make` command.
 
 ```bash
 git clone https://github.com/VeronikaSukhonos/pathfinder
 cd pathfinder
+git submodule update --init
 make
 ```
 
